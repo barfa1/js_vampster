@@ -1,4 +1,4 @@
-var publish= document.querySelector('.item .field-content span font font').innerText;
+var publish= document.querySelector('.item .field-content .lbl-licitacao font:nth-child(2)').innerText;
 console.log(publish);
 //printing Publish Date in console 
 
